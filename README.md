@@ -1,5 +1,3 @@
-# Hi there!
-
 ![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image%20(1).png)
 
 Welcome to my GitHub profile!
