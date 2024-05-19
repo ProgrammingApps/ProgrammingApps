@@ -1,6 +1,6 @@
 # Hi there!
 
-![Banner](https://github.com/ProgrammingApps/Images/main/github-header-image.png)
+![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image.png)
 
 Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intelligence student at the University of Sussex.
 
@@ -32,8 +32,7 @@ Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intell
 <a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a>
 ## 🚀 Projects
 
-### [Project Name](https://github.com/ProgrammingApps/project-name)
-Description of the project.
+### [Stock-Prediction-using-Neural-Networks](https://github.com/ProgrammingApps/Stock-Prediction-using-Neural-Networks)
 
 
 ## 🔗 Connect with me
