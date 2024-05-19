@@ -17,13 +17,15 @@ Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intell
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
 
 ## 🔗 Connect with me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [JoshPaulApps@gmail.com,](mailto:JoshPaulApps@gmail.com)
+<!--
 - 🌐 [Website](https://yourwebsite.com)
+-->
