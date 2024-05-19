@@ -1,5 +1,7 @@
 # Hi there!
 
+![Banner](https://your-image-link.com/banner.png)
+
 Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intelligence student at the University of Sussex.
 
 ## 🛠️ Technologies & Tools
@@ -23,18 +25,30 @@ Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intell
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
+<a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammingApps&theme=radical)](https://github.com/ProgrammingApps/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ProgrammingApps&color=blue&style=flat)
+
+## 🚀 Projects
+
+### [Project Name](https://github.com/ProgrammingApps/project-name)
+Description of the project.
+
+### [Another Project](https://github.com/ProgrammingApps/another-project)
+Description of another project.
+
+## 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me
 
-- 📧 Email: [JoshPaulApps@gmail.com](mailto:JoshPaulApps@gmail.com)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 <!--
 - 🌐 [Website](https://yourwebsite.com)
 -->
