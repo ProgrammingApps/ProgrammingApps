@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image%20(1).png)
 
 Welcome to my GitHub profile!
-Current a final year student at the University of Sussex, studying Computer Science and Artificial Intelligence.
+Currently a final year student at the University of Sussex, studying Computer Science and Artificial Intelligence.
 
 ## 🛠️ Technologies & Tools
 
