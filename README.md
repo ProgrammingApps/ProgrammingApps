@@ -1,6 +1,6 @@
 # Hi there!
 
-![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image (1).png)
+![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image-(1).png)
 
 Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intelligence student at the University of Sussex.
 
