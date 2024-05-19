@@ -36,7 +36,7 @@ Current a final year student at the University of Sussex, studying Computer Scie
 
 ## 🔗 Connect with me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [JoshPaulApps@gmail.com](mailto:JoshPaulApps@gmail.com)
 <!--
 - 🌐 [Website](https://yourwebsite.com)
 -->
