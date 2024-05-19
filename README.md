@@ -30,21 +30,11 @@ Welcome to my GitHub profile! I'm Josh, a Computer Science and Artificial Intell
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
 <a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammingApps&theme=radical)](https://github.com/ProgrammingApps/github-profile-trophy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ProgrammingApps&color=blue&style=flat)
-
 ## 🚀 Projects
 
 ### [Project Name](https://github.com/ProgrammingApps/project-name)
 Description of the project.
 
-### [Another Project](https://github.com/ProgrammingApps/another-project)
-Description of another project.
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me
 
