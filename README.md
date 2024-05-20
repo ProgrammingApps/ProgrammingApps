@@ -25,8 +25,9 @@ Currently a final year student at the University of Sussex, studying Computer Sc
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📈 GitHub Stats
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
 <a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a>
 ## 🚀 Projects
