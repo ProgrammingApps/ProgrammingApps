@@ -33,9 +33,9 @@ Computer Science and Artifical Intelligence Graduate, Software Engineer & Data S
 <!-- <a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a> -->
 
 ## 🚀 Projects
-
+<!--
 ### [Stock-Prediction-using-Neural-Networks](https://github.com/ProgrammingApps/Stock-Prediction-using-Neural-Networks)
-
+-->
 ## 🔗 Connect with me
 
 - 📧 Email: [JoshPaulApps@gmail.com](mailto:JoshPaulApps@gmail.com)
