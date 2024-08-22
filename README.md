@@ -29,12 +29,12 @@ Computer Science and Artifical Intelligence Graduate, Software Engineer & Data S
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
-<a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical) -->
+<!-- <a href="https://github.com/ProgrammingApps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingApps&theme=radical" alt="ProgrammingApps's GitHub streak"></a> -->
+
 ## 🚀 Projects
 
 ### [Stock-Prediction-using-Neural-Networks](https://github.com/ProgrammingApps/Stock-Prediction-using-Neural-Networks)
-
 
 ## 🔗 Connect with me
 
