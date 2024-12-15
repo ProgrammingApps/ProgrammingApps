@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image%20(1).png)
 
-Welcome to my GitHub profile!
-Computer Science and Artifical Intelligence Graduate, Software Engineer & Data Scientist.
+Welcome to my GitHub profile!  
+Computer Science and Artificial Intelligence Graduate, Software Engineer & Data Specialist.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,6 +26,8 @@ Computer Science and Artifical Intelligence Graduate, Software Engineer & Data S
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoftdynamics&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white)
 
 ## 📈 GitHub Stats
 <!--
