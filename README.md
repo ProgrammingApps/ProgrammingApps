@@ -42,7 +42,7 @@ Computer Science and Artificial Intelligence Graduate, Software Engineer & Data 
 -->
 ## 🔗 Connect with me
 
-- 📧 Email: [JoshPaulApps@gmail.com](mailto:JoshPaulApps@gmail.com)
+- 📧 Email: [JoshPaulApps@gmail.com](mailto:JoshPaulApps@outlook.com)
 <!--
 - 🌐 [Website](https://yourwebsite.com)
 -->
