@@ -11,8 +11,6 @@ Computer Science and Artificial Intelligence Graduate, Software Engineer & Data 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoftdynamics&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white)
 
 ## 📈 GitHub Stats
 <!--
