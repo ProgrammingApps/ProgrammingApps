@@ -16,9 +16,8 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 <!--
 ### [Stock-Prediction-using-Neural-Networks](https://github.com/ProgrammingApps/Stock-Prediction-using-Neural-Networks)
--->
+
 ## 🔗 Connect with me
 - 📧 Email: [JoshPaulApps@outlook.com](mailto:JoshPaulApps@outlook.com)
-<!--
 - 🌐 [Website](https://yourwebsite.com)
 -->
