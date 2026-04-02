@@ -1,7 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/ProgrammingApps/Images/main/github-header-image.png)
 
 Welcome to my GitHub profile!  
-Computer Science and Artificial Intelligence Graduate, Software Engineer & Data Specialist.
 
 ## 🛠️ Technologies & Tools
 
