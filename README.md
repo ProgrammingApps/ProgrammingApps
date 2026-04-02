@@ -7,8 +7,9 @@ Welcome to my GitHub profile!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-## 📈 GitHub Stats
 <!--
+## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ProgrammingApps&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgrammingApps&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingApps&theme=radical)
